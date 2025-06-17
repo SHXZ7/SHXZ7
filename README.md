@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mohammed Shaaz Sharafuddin!
 
-I'm an Electronics and Communication Engineering student with a strong interest in software development, AI, and embedded systems. Passionate about building practical, impactful tech — from intelligent resume tools to predictive models for sustainability.
+I'm an Electronics and Communication Engineering student with a strong interest in software development,Data Analytics ,Machine learning and embedded systems. Passionate about building practical, impactful tech — from intelligent resume tools to predictive models for sustainability.
 
 ### 🚀 Projects & Experience
 
