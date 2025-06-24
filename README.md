@@ -14,4 +14,4 @@ I'm an Electronics and Communication Engineering student with a strong interest 
 - Building scalable applications with Next.js
 - Real-world applications of ML and Data Science
 
-🔗 [LinkedIn](www.linkedin.com/in/mohammed-shaaz-098a1628b) | [GitHub](https://github.com/SHXZ7)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-shaaz-098a1628b) | [GitHub](https://github.com/SHXZ7)
