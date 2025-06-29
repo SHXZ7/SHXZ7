@@ -6,7 +6,7 @@ I'm an Electronics and Communication Engineering student with a strong interest 
 
 - 🧠 **AI-Powered Resume Builder**: A full-stack web app built with React, Next.js, and Firebase — enables users to create customized resumes with AI-based suggestions and PDF export.
 - 🌱 **Carbon Emission Predictor**: Developed during the AICTE Internship using Python, pandas, seaborn, and scikit-learn for regression modeling.
-- 💡 **Hand Gesture to LED Interface**: Python + Arduino project to blink LEDs based on finger count detection.
+- 💡 **MedPrompt+**: a full-stack AI health assistant that helps users assess risk, chat with an AI medical assistant, analyze medical documents, and visualize health data — all in a clean, modern dashboard UI! 🌐💡
 - 🌐 **Full Stack Intern @ Vaultofcodes**: Designed and built personal portfolio websites, enhanced UX/UI for client projects, and developed dynamic recipe cards.
 
 ### 🎯 What I’m Exploring
