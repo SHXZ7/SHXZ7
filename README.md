@@ -1,56 +1,82 @@
-# Mohammed Shaaz Sharafuddin
+# 👋 Hi, I'm Mohammed Shaaz Sharafuddin  
 
-🎓 Electronics and Communication Engineering Student | 🤖 Aspiring Data Scientist & Full-Stack Developer  
-🌐 [Portfolio](https://drive.google.com/file/d/1D_fTKyxt3o1lfxJu6n0Nz6zKA_9NP9P-/view) • 📫 shaazney123@gmail.com • 📱 +91 62829 84460  
-[LinkedIn](https://www.linkedin.com/in/shaazsharafuddin-098a1628b) | [GitHub](https://github.com/SHXZ7)
+🎓 **Electronics and Communication Engineering Student**  
+🤖 **Aspiring Data Scientist & Full-Stack Developer**  
 
----
-
-## 🚀 About Me
-
-I'm a passionate tech enthusiast with hands-on experience in **machine learning**, **data analytics**, and **full-stack web development**. I enjoy building impactful AI-powered solutions and collaborating on real-world projects. With a solid foundation in Python, JavaScript, and data tools, I'm actively exploring opportunities in data-driven and AI-focused domains.
+📧 **shaazney123@gmail.com** • 📱 **+91 62829 84460**  
+🌐 [**Portfolio**](https://drive.google.com/file/d/1D_fTKyxt3o1lfxJu6n0Nz6zKA_9NP9P-/view)  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/mohammed-shaaz-098a1628b) • [**GitHub**](https://github.com/SHXZ7)
 
 ---
 
-## 💼 Skills
+## 🚀 About Me  
 
-- **Languages**: Python, JavaScript, R, C, SQL, HTML, CSS
-- **Web Stack**: React, Next.js, Node.js, Express.js, FastAPI
-- **Data & ML**: Pandas, NumPy, Scikit-learn, Matplotlib, SHAP, XGBoost
-- **Tools**: GitHub, VS Code, Firebase, Power BI, Microsoft Excel, Arduino IDE, Figma
-- **Soft Skills**: Team Collaboration, Proactive Mindset, Adaptability
-- **Languages Spoken**: English, Hindi, Malayalam
+I'm a passionate **tech enthusiast** with hands-on experience in **machine learning**, **data analytics**, and **full-stack web development**.  
+I love building **AI-powered solutions**, automating workflows, and visualizing data insights. My projects combine data science and engineering to create real-world impact.
 
 ---
 
-## 🧠 Projects
+## 🧠 Skills  
+
+**Languages & Tools**  
+`Python` • `JavaScript` • `R` • `C` • `SQL` • `HTML/CSS`  
+`GitHub` • `VS Code` • `Firebase` • `Power BI` • `Excel` • `Figma` • `Arduino IDE`
+
+**Web & Backend**  
+`React` • `Next.js` • `Node.js` • `Express.js` • `FastAPI`
+
+**Data Science & ML**  
+`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `SHAP` • `XGBoost`  
+`EDA` • `Data Visualization` • `Model Evaluation`
+
+**Soft Skills**  
+Team Collaboration • Adaptability • Analytical Thinking • Communication
+
+---
+
+## 💡 Projects  
 
 ### 🔬 [MedPrompt+ – AI Health Assistant](https://github.com/SHXZ7/medprompt)
-An AI-powered web app built with **Next.js**, **FastAPI**, and **XGBoost** for health risk prediction. Features include PDF/image parsing, LLM chatbot (OpenRouter), health metric visualizations, and responsive UI.
+AI-powered health prediction web app using **Next.js**, **FastAPI**, and **XGBoost**.  
+- Integrated **PDF/image parsing** and **OpenRouter chatbot**  
+- Built interactive dashboards for BMI & glucose trends  
 
-### 📄 [AI Resume Builder](https://github.com/SHXZ7/ai-resume-builder)
-Smart resume platform that uses **Gemini AI** for bullet suggestions and grammar correction. Built with **Next.js** and **Firebase**. Includes PDF export, live preview, and anonymous cloud storage.
+### ⚙️ [AutoFlow – Visual Workflow Automation Platform](https://github.com/SHXZ7/autoflow)
+Drag-and-drop **SaaS platform** integrating **GPT, Claude, Llama, Gemini AI** models.  
+- Improved workflow flexibility by **40 %**  
+- Automated document & NLP tasks, reducing manual effort by **70 %**
 
 ### 🎓 [Student Performance Predictor](https://github.com/SHXZ7/student-performance-ai)
-Predicts academic risk using **Random Forest**, **SVM**, and **Gradient Boosting**. Features model explainability with **SHAP** and real-time recommendation system.
+Predicts student academic risk using **Random Forest**, **SVM**, and **Gradient Boosting**.  
+- Added **SHAP explainability** for transparent AI  
+- Deployed interactive prediction dashboard  
 
 ---
 
-## 👨‍💻 Internships
+## 💼 Experience  
 
 **Full Stack Developer Intern – Vaultofcodes**  
-*Jun 2025 – Jul 2025*  
-- Built portfolio and weather app using HTML, CSS, Next.js, and OpenWeatherMap API  
-- Integrated Gemini AI chatbot and improved UI with responsive design
+📆 *Jun 2025 – Jul 2025*  
+- Built **portfolio** and **weather chatbot** using Next.js, Gemini AI, and OpenWeatherMap API  
+- Enhanced UI responsiveness and version control via GitHub  
 
-**Data Analytics & ML Intern – AICTE**  
-*May 2025 – Jun 2025*  
-- Performed EDA, data cleaning, and modeling on carbon emissions datasets  
-- Used Python libraries for ML model training and data visualization
+**Data Analytics & ML Intern – Shell (AICTE)**  
+📆 *May 2025 – Jun 2025*  
+- Performed **EDA and ML modeling** on carbon-emission datasets  
+- Created visual dashboards using **Matplotlib & Power BI**  
+- Deployed Python-based sustainability model  
 
 ---
 
-## 📜 Certifications
+## 🎓 Education  
+
+**B.E. – Electronics and Communication Engineering**  
+📍 *Christ College of Engineering* | *Jan 2023 – Jan 2027*  
+**Current CGPA:** 8.2 / 10  
+
+---
+
+## 📜 Certifications  
 
 - Generative AI – Microsoft & LinkedIn  
 - Data Analysis with Python – IBM  
@@ -58,16 +84,16 @@ Predicts academic risk using **Random Forest**, **SVM**, and **Gradient Boosting
 - Data Science for Engineers (Elite) – NPTEL  
 - Full Stack Development Bootcamp – Dev Town  
 - Data Science Bootcamp – GeeksforGeeks  
-- Master Data Analysis (Python, SQL, Power BI, AWS) – Udemy
+- Master Data Analysis (Python, SQL, Power BI, AWS) – Udemy  
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect  
 
-📧 Email: shaazney123@gmail.com  
-📞 Phone: +91 62829 84460  
-🔗 [LinkedIn](https://www.linkedin.com/in/shaazsharafuddin-098a1628b) | [GitHub](https://github.com/SHXZ7)
+📧 **shaazney123@gmail.com**  
+📞 **+91 62829 84460**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/mohammed-shaaz-098a1628b) • [**GitHub**](https://github.com/SHXZ7)
 
 ---
 
-> ⚡ Feel free to check out my repositories or reach out if you're looking for collaboration, internships, or AI-driven solutions!
+> ⚡ *Always curious to collaborate on AI-powered systems, data science, and full-stack projects. Let’s innovate together!*
