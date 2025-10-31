@@ -96,4 +96,6 @@ Predicts student academic risk using **Random Forest**, **SVM**, and **Gradient 
 
 ---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHXZ7&theme=aura)
+
 > ⚡ *Always curious to collaborate on AI-powered systems, data science, and full-stack projects. Let’s innovate together!*
