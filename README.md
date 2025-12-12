@@ -4,7 +4,7 @@
 🤖 **Aspiring Data Scientist & Full-Stack Developer**  
 
 📧 **shaazney123@gmail.com** • 📱 **+91 62829 84460**  
-🌐 [**Portfolio**]([https://drive.google.com/file/d/1D_fTKyxt3o1lfxJu6n0Nz6zKA_9NP9P-/view](https://shxz7.vercel.app/))  
+🌐 [**Portfolio**](https://shxz7.vercel.app/)
 🔗 [**LinkedIn**](https://www.linkedin.com/in/mohammed-shaaz-098a1628b) • [**GitHub**](https://github.com/SHXZ7)
 
 ---
