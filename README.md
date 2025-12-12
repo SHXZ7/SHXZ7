@@ -5,6 +5,7 @@
 
 📧 **shaazney123@gmail.com** • 📱 **+91 62829 84460**  
 🌐 [**Portfolio**](https://shxz7.vercel.app/)
+
 🔗 [**LinkedIn**](https://www.linkedin.com/in/mohammed-shaaz-098a1628b) • [**GitHub**](https://github.com/SHXZ7)
 
 ---
