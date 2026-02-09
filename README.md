@@ -65,7 +65,14 @@ Predicts student academic risk using **Random Forest**, **SVM**, and **Gradient 
 📆 *May 2025 – Jun 2025*  
 - Performed **EDA and ML modeling** on carbon-emission datasets  
 - Created visual dashboards using **Matplotlib & Power BI**  
-- Deployed Python-based sustainability model  
+- Deployed Python-based sustainability model
+
+**Data Analytics Intern – INFOSYS SPRINGBOARD**  
+📆 *October 25 - December 2025*  
+-  Analyzed 6.7M+ flight records spanning 16 years to identify temporal, geographic, and operational delay patterns, uncovering 
+key drivers such as weather (35%), carrier operations (40%), and delay propagation.  
+- Engineered 13+ analytical features and delivered airport-, route-, and season-level insights, quantifying 7.4× higher winter 
+cancellations, 2.8× holiday impact, and establishing baseline metrics to support predictive and operational planning.   
 
 ---
 
@@ -73,7 +80,14 @@ Predicts student academic risk using **Random Forest**, **SVM**, and **Gradient 
 
 **B.E. – Electronics and Communication Engineering**  
 📍 *Christ College of Engineering* | *Jan 2023 – Jan 2027*  
+Machine Learning (MINOR)  
 **Current CGPA:** 8.2 / 10  
+
+---
+
+## 📜 Achivements
+
+**2 Times Hackathon Winner**
 
 ---
 
