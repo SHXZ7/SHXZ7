@@ -38,7 +38,6 @@ I'm a **3rd-year ECE student** building at the intersection of **AI engineering*
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square&logoColor=white)
@@ -103,31 +102,34 @@ I'm a **3rd-year ECE student** building at the intersection of **AI engineering*
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/SHXZ7/student-performance-ai">Student Performance Predictor</a></h3>
-      <p><strong>Explainable Academic Risk AI</strong></p>
-      <p>Ensemble ML model with SHAP explainability — predicts academic risk with transparent reasoning.</p>
+      <h3>🔬 LLM Evaluation Platform</h3>
+      <p><strong>Continuous LLM Classifier Quality Monitor</strong></p>
+      <p>Evaluates LLM classifier performance against a golden dataset — detects accuracy drift and alerts on regressions before they hit production.</p>
       <ul>
-        <li>Random Forest + SVM + Gradient Boosting</li>
-        <li>SHAP feature importance visualizations</li>
-        <li>Interactive prediction dashboard</li>
+        <li>Runs prompt versions against 100+ labeled historical cases</li>
+        <li>Category-level accuracy breakdown & drift detection</li>
+        <li>Slack alerts with full HTML regression reports</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 IPL Cricket Analytics</h3>
-      <p><strong>Franchise Auction Strategy Dashboard</strong></p>
-      <p>Ball-by-ball SQL analysis of IPL data for portfolio storytelling — custom player value index, toss analytics, batting phase breakdown.</p>
+      <h3>🔧 MotorGuard</h3>
+      <p><strong>IoT + AI Predictive Maintenance for Electric Motors</strong></p>
+      <p>End-to-end predictive maintenance platform — ESP32 sensing, real-time telemetry, ML fault classification, and a live Next.js dashboard.</p>
       <ul>
-        <li>Custom Player Value Index (PVI)</li>
-        <li>Toss decision win rate analysis</li>
-        <li>Power BI franchise strategy dashboard</li>
+        <li>Random Forest fault prediction + rule-based fallback</li>
+        <li>RUL (Remaining Useful Life) estimation</li>
+        <li>Groq + RAG AI assistant for contextual motor diagnostics</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
       </p>
     </td>
   </tr>
@@ -139,6 +141,7 @@ I'm a **3rd-year ECE student** building at the intersection of **AI engineering*
 
 | Role | Company | Period | Highlight |
 |------|---------|--------|-----------|
+| Data Engineer Intern | **Springer Capital** | Jan – Apr 2026 | Built Python data pipelines for financial datasets; ETL workflows; Power BI portfolio dashboards |
 | Data Analytics Intern | **Infosys Springboard** | Oct – Dec 2025 | Analyzed 6.7M+ flight records; engineered 13+ features uncovering weather (35%) & carrier (40%) delay drivers |
 | Data Analytics & ML Intern | **Shell × AICTE** | May – Jun 2025 | EDA + ML modeling on carbon-emission datasets; Power BI sustainability dashboards |
 | Full Stack Developer Intern | **Vaultofcodes** | Jun – Jul 2025 | Built Gemini AI-powered weather chatbot with Next.js |
