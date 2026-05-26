@@ -1,116 +1,104 @@
-# 👋 Hi, I'm Mohammed Shaaz Sharafuddin  
+<div align="center">
 
-🎓 **Electronics and Communication Engineering Student**  
-🤖 **Aspiring Data Scientist & Full-Stack Developer**  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Mohammed%20Shaaz&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-📧 **shaazney123@gmail.com** • 📱 **+91 62829 84460**  
-🌐 [**Portfolio**](https://shxz7.vercel.app/)
+</div>
 
-🔗 [**LinkedIn**](https://www.linkedin.com/in/mohammed-shaaz-098a1628b) • [**GitHub**](https://github.com/SHXZ7)
+<div align="center">
 
----
+**Electronics & Communication Engineering · AI & Full-Stack Developer**
 
-## 🚀 About Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-shxz7.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://shxz7.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Shaaz-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shaaz-098a1628b)
+[![GitHub](https://img.shields.io/badge/GitHub-SHXZ7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SHXZ7)
+[![Email](https://img.shields.io/badge/Email-shaazney123@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaazney123@gmail.com)
 
-I'm a passionate **tech enthusiast** with hands-on experience in **machine learning**, **data analytics**, and **full-stack web development**.  
-I love building **AI-powered solutions**, automating workflows, and visualizing data insights. My projects combine data science and engineering to create real-world impact.
-
----
-
-## 🧠 Skills  
-
-**Languages & Tools**  
-`Python` • `JavaScript` • `R` • `C` • `SQL` • `HTML/CSS`  
-`GitHub` • `VS Code` • `Firebase` • `Power BI` • `Excel` • `Figma` • `Arduino IDE`
-
-**Web & Backend**  
-`React` • `Next.js` • `Node.js` • `Express.js` • `FastAPI`
-
-**Data Science & ML**  
-`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `SHAP` • `XGBoost`  
-`EDA` • `Data Visualization` • `Model Evaluation`
-
-**Soft Skills**  
-Team Collaboration • Adaptability • Analytical Thinking • Communication
+</div>
 
 ---
 
-## 💡 Projects  
+## About Me
 
-### 🔬 [MedPrompt+ – AI Health Assistant](https://github.com/SHXZ7/medprompt)
-AI-powered health prediction web app using **Next.js**, **FastAPI**, and **XGBoost**.  
-- Integrated **PDF/image parsing** and **OpenRouter chatbot**  
-- Built interactive dashboards for BMI & glucose trends  
+I'm a **3rd-year ECE student** building at the intersection of AI, data engineering, and full-stack development. I focus on **RAG pipelines**, **agentic AI systems**, and **production-ready backends** — turning complex data into real-world products.
 
-### ⚙️ [AutoFlow – Visual Workflow Automation Platform](https://github.com/SHXZ7/autoflow)
-Drag-and-drop **SaaS platform** integrating **GPT, Claude, Llama, Gemini AI** models.  
-- Improved workflow flexibility by **40 %**  
-- Automated document & NLP tasks, reducing manual effort by **70 %**
+Currently building **AutoFlow**, a visual AI-native workflow automation platform, and **MedPrompt+**, a RAG-based health assistant.
+
+---
+
+## Featured Projects
+
+### ⚙️ [AutoFlow – Visual Workflow Automation](https://github.com/SHXZ7/autoflow)
+> Drag-and-drop SaaS platform integrating GPT, Claude, Llama, and Gemini
+
+- NL → workflow generation via Groq-powered LLM backend
+- Supports AI/LLM, Twilio SMS, webhooks, scheduling, and data processing nodes
+- JWT auth, real-time monitoring, MongoDB-backed execution engine
+- Stack: `Next.js` `React Flow` `FastAPI` `MongoDB` `APScheduler`
+
+### 🩺 [MedPrompt+ – AI Health Assistant](https://github.com/SHXZ7/medprompt)
+> RAG-based health prediction assistant with multimodal input
+
+- PDF/image parsing pipeline + OpenRouter chatbot
+- XGBoost-powered health risk prediction
+- Interactive BMI & glucose dashboards
+- Stack: `Next.js` `FastAPI` `XGBoost` `FAISS` `OpenRouter`
 
 ### 🎓 [Student Performance Predictor](https://github.com/SHXZ7/student-performance-ai)
-Predicts student academic risk using **Random Forest**, **SVM**, and **Gradient Boosting**.  
-- Added **SHAP explainability** for transparent AI  
-- Deployed interactive prediction dashboard  
+> Academic risk prediction with explainable AI
+
+- Ensemble models: Random Forest, SVM, Gradient Boosting
+- SHAP-based explainability layer for transparent predictions
+- Interactive prediction dashboard
 
 ---
 
-## 💼 Experience  
+## Skills
 
-**Full Stack Developer Intern – Vaultofcodes**  
-📆 *Jun 2025 – Jul 2025*  
-- Built **portfolio** and **weather chatbot** using Next.js, Gemini AI, and OpenWeatherMap API  
-- Enhanced UI responsiveness and version control via GitHub  
+**AI & Data**
+`Python` `RAG Pipelines` `LangChain` `XGBoost` `Scikit-learn` `Pandas` `NumPy` `SHAP` `Power BI`
 
-**Data Analytics & ML Intern – Shell (AICTE)**  
-📆 *May 2025 – Jun 2025*  
-- Performed **EDA and ML modeling** on carbon-emission datasets  
-- Created visual dashboards using **Matplotlib & Power BI**  
-- Deployed Python-based sustainability model
+**Full-Stack**
+`Next.js` `React` `FastAPI` `Node.js` `MongoDB` `Firebase` `Tailwind CSS`
 
-**Data Analytics Intern – INFOSYS SPRINGBOARD**  
-📆 *October 25 - December 2025*  
--  Analyzed 6.7M+ flight records spanning 16 years to identify temporal, geographic, and operational delay patterns, uncovering 
-key drivers such as weather (35%), carrier operations (40%), and delay propagation.  
-- Engineered 13+ analytical features and delivered airport-, route-, and season-level insights, quantifying 7.4× higher winter 
-cancellations, 2.8× holiday impact, and establishing baseline metrics to support predictive and operational planning.   
+**Other**
+`SQL` `R` `Figma` `Arduino` `Git` `Docker`
 
 ---
 
-## 🎓 Education  
+## Experience
 
-**B.E. – Electronics and Communication Engineering**  
-📍 *Christ College of Engineering* | *Jan 2023 – Jan 2027*  
-Machine Learning (MINOR)  
-**Current CGPA:** 8.2 / 10  
+**Full Stack Developer Intern** · Vaultofcodes *(Jun – Jul 2025)*
+Built portfolio and Gemini AI-powered weather chatbot with Next.js
 
----
+**Data Analytics & ML Intern** · Shell via AICTE *(May – Jun 2025)*
+EDA + ML modeling on carbon-emission datasets; Power BI dashboards
 
-## 📜 Achivements
-
-**2 Times Hackathon Winner**
+**Data Analytics Intern** · Infosys Springboard *(Oct – Dec 2025)*
+Analyzed 6.7M+ flight records; engineered 13+ features; uncovered delay drivers across weather, carrier ops, and seasonality
 
 ---
 
-## 📜 Certifications  
+## Education
 
-- Generative AI – Microsoft & LinkedIn  
-- Data Analysis with Python – IBM  
-- Python Essentials – Cisco  
-- Data Science for Engineers (Elite) – NPTEL  
-- Full Stack Development Bootcamp – Dev Town  
-- Data Science Bootcamp – GeeksforGeeks  
-- Master Data Analysis (Python, SQL, Power BI, AWS) – Udemy  
+**B.E. Electronics & Communication Engineering** · Christ College of Engineering *(2023 – 2027)*
+Minor in Machine Learning · CGPA: **8.2 / 10**
 
 ---
 
-## 🤝 Let's Connect  
+## Achievements & Certifications
 
-📧 **shaazney123@gmail.com**  
-📞 **+91 62829 84460**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/mohammed-shaaz-098a1628b) • [**GitHub**](https://github.com/SHXZ7)
+🏆 **2× Hackathon Winner**
+
+`Generative AI` – Microsoft & LinkedIn · `Data Analysis with Python` – IBM · `Data Science for Engineers (Elite)` – NPTEL · `Python Essentials` – Cisco · `Full Stack Development` – Dev Town
 
 ---
+
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHXZ7&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHXZ7&theme=aura)
 
-> ⚡ *Always curious to collaborate on AI-powered systems, data science, and full-stack projects. Let’s innovate together!*
+*Open to collaborations on AI systems, data engineering, and full-stack projects.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
+
+</div>
