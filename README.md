@@ -1,3 +1,8 @@
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHXZ7&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHXZ7&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shxz7&theme=default)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Mohammed%20Shaaz&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
@@ -92,10 +97,6 @@ Minor in Machine Learning · CGPA: **8.2 / 10**
 `Generative AI` – Microsoft & LinkedIn · `Data Analysis with Python` – IBM · `Data Science for Engineers (Elite)` – NPTEL · `Python Essentials` – Cisco · `Full Stack Development` – Dev Town
 
 ---
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHXZ7&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHXZ7&theme=aura)
 
 *Open to collaborations on AI systems, data engineering, and full-stack projects.*
 
