@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd-year ECE student** building at the intersection of **AI engineering**, **data pipelines**, and **full-stack development**.
+I'm a **4rd-year ECE student** building at the intersection of **AI engineering**, **data pipelines**, and **full-stack development**.
 
 - 🔭 Currently building **[AutoFlow](https://github.com/SHXZ7/autoflow)** — a visual AI-native workflow automation platform
 - 🧪 Also working on **[MedPrompt+](https://github.com/SHXZ7/medprompt)** — a RAG-based multimodal health assistant
@@ -141,10 +141,10 @@ I'm a **3rd-year ECE student** building at the intersection of **AI engineering*
 
 | Role | Company | Period | Highlight |
 |------|---------|--------|-----------|
+  | SoftWare Developer Intern | **Modelsuite** | Jun – Sep 2026 | Built AI-powered Management software for remote agencies with MERN and a python automation platform |
 | Data Engineer Intern | **Springer Capital** | Jan – Apr 2026 | Built Python data pipelines for financial datasets; ETL workflows; Power BI portfolio dashboards |
 | Data Analytics Intern | **Infosys Springboard** | Oct – Dec 2025 | Analyzed 6.7M+ flight records; engineered 13+ features uncovering weather (35%) & carrier (40%) delay drivers |
 | Data Analytics & ML Intern | **Shell × AICTE** | May – Jun 2025 | EDA + ML modeling on carbon-emission datasets; Power BI sustainability dashboards |
-| Full Stack Developer Intern | **Vaultofcodes** | Jun – Jul 2025 | Built Gemini AI-powered weather chatbot with Next.js |
 
 ---
 
